@@ -58,7 +58,7 @@ IncidentFlow is designed to provide:
 ### Backend
 
 - Java 21
-- Spring Boot 3
+- Spring Boot 4.1.1
 - Spring Web
 - Spring Data JPA
 - Spring Security
